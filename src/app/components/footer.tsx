@@ -49,7 +49,7 @@ export default function Footer() {
         <div className="bg-gray-200">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-gray-500 text-sm text-center sm:text-left">
-              Contact: <a href="mailto:ommeaimanwajid@gmail.com" className="text-gray-600 hover:text-gray-800">nnpervez333@gmail.com</a>
+              Contact: <a href="mailto:ommeaimanwajid@gmail.com" className="text-gray-600 hover:text-gray-800">ommeaimanwajid@gmail.com</a>
             </p>
           </div>
         </div>
